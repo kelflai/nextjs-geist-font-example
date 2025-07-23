@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Google
+https://www.google.com
+#EXTINF:-1,GitHub
+https://github.com
+#EXTINF:-1,Link Inválido
+https://link-inexistente-teste-404.com
+#EXTINF:-1,YouTube
+https://www.youtube.com
+#EXTINF:-1,Stack Overflow
+https://stackoverflow.com
+#EXTINF:-1,Link Offline
+https://httpstat.us/500
+#EXTINF:-1,Netflix
+https://www.netflix.com
+#EXTINF:-1,Spotify
+https://open.spotify.com
